@@ -1,0 +1,50 @@
+#title  {
+  font-size: 40px;
+  text-align: center;
+}
+
+#main {
+  background-color: #2f4858;
+  width: 1500px;
+  display: block;
+  margin: 0 auto;
+
+}
+
+body {
+  background-color: #2f4858;
+}
+
+#img-div  {
+  background-color: #8e3050;
+    
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  padding: 40px 40px 5px 40px;
+  width: 1400px;
+  max-width: 100%;
+}
+
+#img-caption  {
+  text-align: center;
+  padding: 0px 40px 5px 40px;
+  color: #B8D8D8;
+  
+}
+
+.source-links {
+  color: black;
+}
+
+#tribute-info {
+  color: #B8D8D8;
+  font-size: 24px;
+  line-height: 46px;
+}
+
+#tribute-link {
+  color: black;
+}
